@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on computer science education
+- 🌱 I’m currently learning Python, R, VBA, SQL
+  
 <!--
 **aacurtis/aacurtis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
